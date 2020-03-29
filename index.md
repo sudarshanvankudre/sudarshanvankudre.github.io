@@ -1,4 +1,4 @@
-## [Google](www.google.com) [Apple](www.apple.com)
+## [Google](https://www.google.com/) [Apple](www.apple.com)
 
 ## Welcome to GitHub Pages
 
