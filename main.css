@@ -6,9 +6,24 @@ h1 {
     font-size: 5rem;
 }
 
-.social-logo {
+.logo {
     height: 70px;
+}
+
+.social-logo {
     transition: transform 200ms;
+}
+
+.skill-logo {
+    padding: 10px;
+}
+
+/*.skill-logo.caption {*/
+/*    transition: opacity 300ms ease;*/
+/*}*/
+
+#contactMe {
+    color: darkorange;
 }
 
 a.logoClass {
