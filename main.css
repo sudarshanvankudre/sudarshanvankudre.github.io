@@ -6,17 +6,31 @@ h1 {
     font-size: 5rem;
 }
 
-a {
+.social-logo {
+    height: 70px;
+    transition: transform 200ms;
+}
+
+a.logoClass {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.social-logo:hover {
+    transform: scale(1.2);
+}
+
+a.fancyUnderline {
     color: black;
     text-decoration: none;
-    background-image: linear-gradient(black, black);
+    background-image: linear-gradient(blueviolet, blueviolet);
     background-position: 0% 100%;
     background-repeat: no-repeat;
     background-size: 0% 2px;
     transition: background-size .3s;
 }
 
-a:hover, a:focus {
+a.fancyUnderline:hover, a.fancyUnderline:focus {
     color: black;
     text-decoration: none;
     background-size: 100% 2px;
